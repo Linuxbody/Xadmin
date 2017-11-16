@@ -18,4 +18,7 @@ six<br>
 
     'crispy_forms',
     'xadmin',
-3、
+
+3、在项目的目录下创建adminx.py文件，里面配置和django自带的admin方法一样
+
+
